@@ -9,7 +9,7 @@ You don't have look for npm packages to do it.
 Just install only one package!
 
 ```
-$ yarn add commander-document-generator
+$ yarn add @mitsuru793/package-bundle-semantic-release-npm
 ```
 
 # Package List
