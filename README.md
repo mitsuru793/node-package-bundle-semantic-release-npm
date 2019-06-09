@@ -1,4 +1,8 @@
-# Package Bundle Semantic Release NPM
+# @mitsuru793/package-bundle-semantic-release-npm
+
+[Npm](https://www.npmjs.com/package/@mitsuru793/package-bundle-semantic-release-npm) /
+[Github](https://github.com/mitsuru793/node-package-bundle-semantic-release-npm) /
+[Homepage](https://github.com/mitsuru793/node-package-bundle-semantic-release-npm)
 
 This is a bundle of npm packages to use semantic-release for publishing npm package.
 
@@ -9,14 +13,14 @@ You don't have look for npm packages to do it.
 Just install only one package!
 
 ```
-$ yarn add @mitsuru793/package-bundle-semantic-release-npm
+$ yarn add -D @mitsuru793/package-bundle-semantic-release-npm
 ```
 
 # Package List
 
-You can use the following the packages without `yarn add <the package>`.
+You can use the following the packages without `yarn add <the following package>`.
 
-### @commitlint/cli: ^8.0.0
+### @commitlint/cli: 8.0.0
 
 [Npm](https://www.npmjs.com/package/@commitlint/cli) /
 [Github](https://github.com/conventional-changelog/commitlint) /
@@ -24,7 +28,7 @@ You can use the following the packages without `yarn add <the package>`.
 
 Lint your commit messages
 
-### @commitlint/config-conventional: ^8.0.0
+### @commitlint/config-conventional: 8.0.0
 
 [Npm](https://www.npmjs.com/package/@commitlint/config-conventional) /
 [Github](https://github.com/conventional-changelog/commitlint) /
@@ -32,7 +36,7 @@ Lint your commit messages
 
 Shareable commitlint config enforcing conventional commits
 
-### @semantic-release/changelog: ^3.0.2
+### @semantic-release/changelog: 3.0.2
 
 [Npm](https://www.npmjs.com/package/@semantic-release/changelog) /
 [Github](https://github.com/semantic-release/changelog) /
@@ -40,7 +44,7 @@ Shareable commitlint config enforcing conventional commits
 
 semantic-release plugin to create or update a changelog file
 
-### @semantic-release/commit-analyzer: ^6.1.0
+### @semantic-release/commit-analyzer: 6.1.0
 
 [Npm](https://www.npmjs.com/package/@semantic-release/commit-analyzer) /
 [Github](https://github.com/semantic-release/commit-analyzer) /
@@ -48,7 +52,7 @@ semantic-release plugin to create or update a changelog file
 
 semantic-release plugin to analyze commits with conventional-changelog
 
-### @semantic-release/git: ^7.0.8
+### @semantic-release/git: 7.0.8
 
 [Npm](https://www.npmjs.com/package/@semantic-release/git) /
 [Github](https://github.com/semantic-release/git) /
@@ -56,7 +60,7 @@ semantic-release plugin to analyze commits with conventional-changelog
 
 semantic-release plugin to commit release assets to the project's git repository
 
-### @semantic-release/npm: ^5.1.7
+### @semantic-release/npm: 5.1.7
 
 [Npm](https://www.npmjs.com/package/@semantic-release/npm) /
 [Github](https://github.com/semantic-release/npm) /
@@ -64,7 +68,7 @@ semantic-release plugin to commit release assets to the project's git repository
 
 semantic-release plugin to publish a npm package
 
-### @semantic-release/release-notes-generator: ^7.1.4
+### @semantic-release/release-notes-generator: 7.1.4
 
 [Npm](https://www.npmjs.com/package/@semantic-release/release-notes-generator) /
 [Github](https://github.com/semantic-release/release-notes-generator) /
@@ -72,7 +76,7 @@ semantic-release plugin to publish a npm package
 
 semantic-release plugin to generate changelog content with conventional-changelog
 
-### semantic-release: ^15.13.12
+### semantic-release: 15.13.12
 
 [Npm](https://www.npmjs.com/package/semantic-release) /
 [Github](https://github.com/semantic-release/semantic-release) /
@@ -80,7 +84,7 @@ semantic-release plugin to generate changelog content with conventional-changelo
 
 Automated semver compliant package publishing
 
-### semantic-release-cli: ^5.1.1
+### semantic-release-cli: 5.1.1
 
 [Npm](https://www.npmjs.com/package/semantic-release-cli) /
 [Github](https://github.com/semantic-release/cli) /

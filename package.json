@@ -18,6 +18,9 @@
     "commit-lint",
     "semantic-release"
   ],
+  "scripts": {
+    "doc": "document-generator-package-bundle render:readme 'to use semantic-release for publishing npm package' > README.md"
+  },
   "husky": {
     "hooks": {
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
@@ -35,6 +38,7 @@
     "semantic-release-cli": "^5.1.1"
   },
   "devDependencies": {
+    "@mitsuru793/document-generator-package-bundle": "^1.1.2",
     "husky": "^2.3.0",
     "package-json": "^6.3.0"
   }
