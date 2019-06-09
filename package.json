@@ -4,6 +4,11 @@
   "description": "Package bundle for semantic-release",
   "author": "mitsuru793 <mitsuru793@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mitsuru793/node-package-bundle-semantic-release-npm.git"
+  },
+  "homepage": "https://github.com/mitsuru793/node-package-bundle-semantic-release-npm",
   "publishConfig": {
     "access": "public"
   },
